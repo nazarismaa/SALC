@@ -1,4 +1,8 @@
+fastapi
+uvicorn[standard]
+tensorflow-cpu>=2.18.0
+numpy>=2.0
 pandas
-matplotlib
-seaborn
-streamlit
+pydantic
+scikit-learn>=1.6
+joblib
